@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+table {
+    display: inline-block;
+
+}
+
+a, a:visited {
+    color: black;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
